@@ -41,13 +41,14 @@ body {
   justify-content: space-between;
   margin-left: calc(20%/2);  
   margin-bottom: 20px;
+  flex-wrap: wrap;
 }
 
 .popis1,
 .popis2 {
   display: flex;
   justify-content: space-between;
-  margin-left: 120px;
+  margin-left: 150px;
   margin-right: 120px;
 }
 
